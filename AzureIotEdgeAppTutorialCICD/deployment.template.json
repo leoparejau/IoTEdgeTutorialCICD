@@ -11,9 +11,9 @@
             "loggingOptions": "",
             "registryCredentials": {
               "acr": {
-                "username": "${ACR_USER}",
-                "password": "${ACR_PASSWORD}",
-                "address": "${ACR_ADDRESS}"
+                "username": "containerRegistryLeoIoT",
+                "password": "2NuhI=zRhR1R8lcaDMcKLT0D7w0JckvU",
+                "address": "containerregistryleoiot.azurecr.io}"
               }
             }
           }
