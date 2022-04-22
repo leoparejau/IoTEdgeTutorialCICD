@@ -13,7 +13,7 @@
               "acr": {
                 "username": "containerRegistryLeoIoT",
                 "password": "2NuhI=zRhR1R8lcaDMcKLT0D7w0JckvU",
-                "address": "containerregistryleoiot.azurecr.io}"
+                "address": "containerregistryleoiot.azurecr.io"
               }
             }
           }
